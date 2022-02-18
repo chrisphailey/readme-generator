@@ -21,6 +21,6 @@
   ## Testing
   click on links, if videos work, then it passes
   ## Questions
-  github.com/chrisphailey
+  github.com/chrisphailey\
   If you have any additional questions, you can reach me at chris@chris.com
 

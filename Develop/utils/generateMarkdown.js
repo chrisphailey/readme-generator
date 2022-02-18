@@ -66,7 +66,7 @@ ${renderLicenseBadge(data.license)}
   ## Testing
   ${data.testing}
   ## Questions
-  github.com/${data.username}
+  github.com/${data.username}\
   If you have any additional questions, you can reach me at ${data.email}
 
 `;
